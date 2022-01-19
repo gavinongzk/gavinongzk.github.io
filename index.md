@@ -14,3 +14,5 @@ Models used:
 Written in R.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/gavinongzk/gavinongzk.github.io/blob/master/projects/Google%20Analytics-Customer%20Revenue%20Prediction/analysis/ACCT420-G1-GoogleRevenuePrediction-Team%202_Report.pdf)
+
+<center><img src="images/ganalytics.png"/></center>
